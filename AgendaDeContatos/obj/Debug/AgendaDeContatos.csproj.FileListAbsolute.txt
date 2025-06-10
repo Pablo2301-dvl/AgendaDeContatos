@@ -1,0 +1,14 @@
+C:\Users\pablo.aramos\source\repos\AgendaDeContatos\AgendaDeContatos\bin\Debug\AgendaDeContatos.exe.config
+C:\Users\pablo.aramos\source\repos\AgendaDeContatos\AgendaDeContatos\bin\Debug\AgendaDeContatos.exe
+C:\Users\pablo.aramos\source\repos\AgendaDeContatos\AgendaDeContatos\bin\Debug\AgendaDeContatos.pdb
+C:\Users\pablo.aramos\source\repos\AgendaDeContatos\AgendaDeContatos\bin\Debug\System.Data.SQLite.dll
+C:\Users\pablo.aramos\source\repos\AgendaDeContatos\AgendaDeContatos\bin\Debug\System.Data.SQLite.xml
+C:\Users\pablo.aramos\source\repos\AgendaDeContatos\AgendaDeContatos\obj\Debug\AgendaDeContatos.csproj.AssemblyReference.cache
+C:\Users\pablo.aramos\source\repos\AgendaDeContatos\AgendaDeContatos\obj\Debug\AgendaDeContatos.Form1.resources
+C:\Users\pablo.aramos\source\repos\AgendaDeContatos\AgendaDeContatos\obj\Debug\AgendaDeContatos.Properties.Resources.resources
+C:\Users\pablo.aramos\source\repos\AgendaDeContatos\AgendaDeContatos\obj\Debug\AgendaDeContatos.TelaInicial.resources
+C:\Users\pablo.aramos\source\repos\AgendaDeContatos\AgendaDeContatos\obj\Debug\AgendaDeContatos.csproj.GenerateResource.cache
+C:\Users\pablo.aramos\source\repos\AgendaDeContatos\AgendaDeContatos\obj\Debug\AgendaDeContatos.csproj.CoreCompileInputs.cache
+C:\Users\pablo.aramos\source\repos\AgendaDeContatos\AgendaDeContatos\obj\Debug\AgendaDe.1929CDC4.Up2Date
+C:\Users\pablo.aramos\source\repos\AgendaDeContatos\AgendaDeContatos\obj\Debug\AgendaDeContatos.exe
+C:\Users\pablo.aramos\source\repos\AgendaDeContatos\AgendaDeContatos\obj\Debug\AgendaDeContatos.pdb
