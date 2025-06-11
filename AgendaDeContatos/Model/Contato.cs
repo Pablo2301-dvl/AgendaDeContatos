@@ -25,7 +25,7 @@ namespace AgendaDeContatos.Model
             var cmd = banco.conexao.CreateCommand();
             cmd.CommandText = "INSERT INTO contatos (nome, email, telefone," +
             "id_responsavel, endereco) VALUES (@nome, @email, @telefone, " +
-            "id_responsavel, @endereco";
+            "@id_responsavel, @endereco)";
            
 
             // Adicionar valores aos parâmetros:

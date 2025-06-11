@@ -41,6 +41,7 @@ namespace AgendaDeContatos
                 contato.email = txbEmail.Text;
                 contato.endereco = txbEndereco.Text;    
                 contato.telefone = txbTelefone.Text;
+                contato.IdResponsavel = usuario.Id;
 
                 if(contato.Cadastrar() == 1)
                 {
